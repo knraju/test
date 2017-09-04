@@ -5,7 +5,6 @@ public class HelloWorld {
 		System.out.println("this is test for java project pushed first time to trigger jenkins job test");
 		System.out.println("this is for pull request demo");
 		System.out.println("this is for pull request demooooooooooooooooooo");
-		//Comment
 	}
 
 }
